@@ -1,0 +1,6 @@
+name = input("Please enter your name:")
+print("Hi",name,":)")
+print("You're very awesome! >:)")
+birthday = input("Please enter your birthday:")
+print("Wow, what a coincidence!")
+print("All the awesome people are born on",birthday,"!")
